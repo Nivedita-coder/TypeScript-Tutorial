@@ -1,0 +1,10 @@
+Let's get started!!
+TypeScript is the superset of the javascript  so that means any valid javascript code is also valid TypeScript code but TypeScripthas additional featurse which doesn't exit in the current version of javascript supported by most browser out there.
+- Strong typing
+- Object-oriented featurse
+- Complie-time errors
+- Great tooling
+
+Installaion
+sudo npm install -g typescript
+tsc --version
